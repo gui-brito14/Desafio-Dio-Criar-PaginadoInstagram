@@ -8,7 +8,7 @@ O objetivo deste desafio é recriar a interface de login do Instagram utilizando
 
 ## Contato
 
-Para dúvidas ou sugestões, entre em contato comigo pelo GitHub [aqui](https://github.com/seu-usuario) ou pela plataforma DIO.
+Para dúvidas ou sugestões, entre em contato comigo pelo GitHub ou pela plataforma DIO.
 
 Esperamos que você goste!
 
